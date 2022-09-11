@@ -1,6 +1,8 @@
 # firstdjangop
 CRUD APP TO ADD/UPDATE STUDENTS AND ASSIGN PROJECTS TO STUDENTS.
+
 Home
+
 ![image](https://user-images.githubusercontent.com/64930024/189539043-f3b1705b-f4b4-4fd5-9d28-5104b2c9900d.png)
 
 ADD STUDENT
@@ -8,6 +10,7 @@ ADD STUDENT
 ![image](https://user-images.githubusercontent.com/64930024/189539065-4f56f251-521a-4135-9141-882d5312306e.png)
 
 ADD PROJECT
+
 ![image](https://user-images.githubusercontent.com/64930024/189539074-80fdc2be-d63e-4ba4-a6af-71bd02e98a3a.png)
 
 EDIT/DELETE STUDENT AND ASSIGNED PROJECT
